@@ -21,3 +21,4 @@ window.bind('<Alt-KeyPress-a>',lambda event: print(event))
 
 #run
 window.mainloop()
+#edited..
